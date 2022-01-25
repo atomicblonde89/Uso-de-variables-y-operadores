@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-image: url(../img/gif_math.gif);
+    background-repeat: repeat;
+    
+}
+
+.gif img {
+    position: relative;
+    right: -400px;
+}
+
+.container {
+    position: relative;
+    right: -160px;
+}
+
