@@ -20,3 +20,10 @@ html {
     right: -160px;
 }
 
+.kelvin {
+    font-weight: bold;
+}
+
+.fahrenheit {
+    font-weight: bold;
+}
